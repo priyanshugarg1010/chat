@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
 import { FunctionComponent, useEffect, useState } from "react";
 import Dropdown from "./Dropdown";
 import Options from "./Options";
