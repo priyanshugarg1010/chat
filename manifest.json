@@ -1,0 +1,9 @@
+{
+  "name": "Chat",
+  "short_name": "Chat",
+  "start_page": "/",
+  "display": "standalone",
+  "background_color": "#f2f2f2",
+  "theme_color": "#ffc1e4",
+  "orientation": "portrait-primary"
+}
